@@ -1,0 +1,25 @@
+{
+  "name": "shopify-dev",
+  "version": "1.0.0",
+  "description": "shopify sandbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandon-stewart-rgb/shopify-dev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandon-stewart-rgb/shopify-dev/issues"
+  },
+  "homepage": "https://github.com/brandon-stewart-rgb/shopify-dev#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "node-sass": "^7.0.1",
+    "sass": "^1.49.9"
+  }
+}
