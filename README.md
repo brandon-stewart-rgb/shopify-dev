@@ -7,7 +7,7 @@
   <h1 align="center">Shopify Sandbox</h1>
 
   <p align="center">
-    A Dawm theme-bending experiment in order to learn Liquid/JSON templates and Shopify CLI, SCSS. Sections everywhere.
+    A Dawn theme-bending experiment in order to learn Liquid/JSON templates and Shopify CLI, SCSS. Sections everywhere.
     <br />
     <!-- <a href="https://github.com/brandon-stewart-rgb/grumpy-milkshake"><strong>Explore the docs »</strong></a>
     <br />
